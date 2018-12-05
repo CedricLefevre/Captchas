@@ -6,8 +6,7 @@ How to run it ?
 - Download UwAmp
 - Run UwAmp
 - Open UwAmp's files
-- Put my files in a repertory (name it as you want)
-- Put the reportory in UwAmp's files
+- Put the reportory nammed ''Captcha'' in UwAmp's files
 - Open the navigator with UwAmp
 - Run index.php
 
