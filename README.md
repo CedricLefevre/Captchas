@@ -1,5 +1,5 @@
 # Captchas
-In class, we learnt how to develop a simple captcha (with 5 letters or numbers).
+In class, we learnt how to develop a simple captcha (with 5 letters or/and numbers).
 
 How to run it ?
 
